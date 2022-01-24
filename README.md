@@ -1,2 +1,2 @@
 # soal-basic-algo-binar
-Tugas Binar Academy
+Tugas SYNRGY Academy
